@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Pythoniers!
+
+My name ist Burak and I am here for learning Python! 
